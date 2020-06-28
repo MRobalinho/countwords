@@ -1,0 +1,1 @@
+web: gunicorn api_word_count:app
