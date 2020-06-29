@@ -17,6 +17,8 @@ also run the command gunicorn app:app to start your web server.
 
 NOW THE DEPLOY:
 a)  $ git add . 
+
 b) $ git commit -m "added Procfile and requirements.txt"
+
 c) $ git push heroku master     ( to push from your local master branch to the heroku remote.)
 
